@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="cities.css" />
+    <title>cities</title>
+  </head>
+  <body>
+    <header>
+      <span><a href="index.html">Home</a></span>
+    </header>
+    <fieldset id="form">
+      <legend>GET</legend>
+      <div class="search">
+        <input type="text" class="search-bar" placeholder="Search for cities" />
+        <button class="search-button">
+          <img
+            src="search_FILL0_wght400_GRAD0_opsz48.svg"
+            alt="search-icon"
+            class="search-icon"
+          />
+        </button>
+      </div>
+    </fieldset>
+    <fieldset class="form">
+      <legend>POST AND DELETE</legend>
+      <form>
+        <label for="cities">City:</label><br />
+        <input
+          type="text"
+          id="cities"
+          name="cities"
+          value=""
+          placeholder="a city"
+        /><br />
+        <label for="population">Population:</label><br />
+        <input
+          type="text"
+          id="population"
+          name="population"
+          value=""
+          placeholder="min population"
+        /><br /><br />
+        <input class="button" type="submit" value="POST" />
+        <button id="btn">DELETE</button>
+      </form>
+    </fieldset>
+    <fieldset class="form">
+      <legend>PUT</legend>
+      <form>
+        <label for="ID">ID:</label><br />
+        <input type="text" id="ID" name="ID" value="" placeholder="ID" />
+        <br />
+        <label for="cities">City:</label><br />
+        <input
+          type="text"
+          id="cities"
+          name="cities"
+          value=""
+          placeholder="a city"
+        /><br />
+        <label for="population">Population:</label><br />
+        <input
+          type="text"
+          id="population"
+          name="population"
+          value=""
+          placeholder="min population"
+        /><br /><br />
+        <input class="button" type="submit" value="ADJUST" />
+      </form>
+    </fieldset>
+
+    <script src="cities.js"></script>
+  </body>
+</html>

@@ -1,0 +1,399 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+  "response": {
+    "docs": [
+      {
+        "abstract": "Account of the matter from J.S. Gorsach",
+        "web_url": "https://www.nytimes.com/1851/09/20/archives/the-christiana-affair-again.html",
+        "snippet": "Account of the matter from J.S. Gorsach",
+        "lead_paragraph": "",
+        "print_page": "2",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "The Christiana affair again.",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "The Christiana affair again.",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1851-09-20T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": null,
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/1cde4d34-a876-5b7f-b854-105cdc943bc9",
+        "word_count": 0,
+        "uri": "nyt://article/1cde4d34-a876-5b7f-b854-105cdc943bc9"
+      },
+      {
+        "abstract": "",
+        "web_url": "https://www.nytimes.com/1851/09/20/archives/the-harbor-excursion.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_page": "1",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "The Harbor Excursion.",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "The Harbor Excursion.",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1851-09-20T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": "Correspondence of ThenNew-York Daily Times",
+          "person": [
+            {
+              "firstname": null,
+              "middlename": null,
+              "lastname": null,
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/1f973a99-69f6-5b3a-9f86-94a22182c8a0",
+        "word_count": 0,
+        "uri": "nyt://article/1f973a99-69f6-5b3a-9f86-94a22182c8a0"
+      },
+      {
+        "abstract": "What shall I say of the good city of Boston, in these times of parade and excitement? If I undertake to write the facts, the movements of the honored ones, or the hundred incidents of the occasion, the winged lightning has anticipated me, and when the Express hands you my sheet, 'tis but a record of things that were.  ",
+        "web_url": "https://www.nytimes.com/1851/09/20/archives/the-railroad-jubilce.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_page": "1",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "The Railroad Jubilce.",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "The Railroad Jubilce.",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1851-09-20T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": "Correspondence of the New-York Daily Times",
+          "person": [
+            {
+              "firstname": null,
+              "middlename": null,
+              "lastname": null,
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/3b2e56f2-fc62-5c84-8c86-4f02ce40d037",
+        "word_count": 0,
+        "uri": "nyt://article/3b2e56f2-fc62-5c84-8c86-4f02ce40d037"
+      },
+      {
+        "abstract": "We have received by the Illinois advices from Oregon City to the 5th of August. Emigrants still continued to pour in. The Oregon Spectator mentions the arrival, on the 1st., of Mr. F. L. RAYMOND, of Indiana, one of a company of packers. About a hundred teams had started with him from St. Joseph's for Oregon. The Spectator gives the following outline of his journey:  ",
+        "web_url": "https://www.nytimes.com/1851/09/20/archives/from-oregon-from-south-america-from-the-sandwich-islands-australia.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_page": "4",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "FROM OREGON.; FROM SOUTH AMERICA. FROM THE SANDWICH ISLANDS AUSTRALIA.",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "FROM OREGON.; FROM SOUTH AMERICA. FROM THE SANDWICH ISLANDS AUSTRALIA.",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1851-09-20T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": null,
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/61e736cd-0718-5591-964e-7cbc9f15fa20",
+        "word_count": 0,
+        "uri": "nyt://article/61e736cd-0718-5591-964e-7cbc9f15fa20"
+      },
+      {
+        "abstract": "MY DEAR R.:--While stopping at Boston for a few hours, I comply with your request to throw together some impressions and general views of the Missionary Cause, as exhibited at the recent important meeting in Portland, Maine.  ",
+        "web_url": "https://www.nytimes.com/1851/09/20/archives/the-missionary-cause-meeting-of-the-american-board-at-portland.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_page": "3",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "THE MISSIONARY CAUSE; Meeting of the American Board at Portland.",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "THE MISSIONARY CAUSE; Meeting of the American Board at Portland.",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1851-09-20T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": "Correspondence of The New-York Daily Times",
+          "person": [
+            {
+              "firstname": null,
+              "middlename": null,
+              "lastname": null,
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/6386c59f-46ff-5c7d-9674-e517d6083679",
+        "word_count": 0,
+        "uri": "nyt://article/6386c59f-46ff-5c7d-9674-e517d6083679"
+      },
+      {
+        "abstract": "Remarks at NY. State fair",
+        "web_url": "https://www.nytimes.com/1851/09/20/archives/latest-intelligence-illness-of-the-presidentmr-webster-c-from.html",
+        "snippet": "Remarks at NY. State fair",
+        "lead_paragraph": "",
+        "print_page": "2",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "LATEST INTELLIGENCE; Illness of the President--Mr. Webster, &c. From California.--News by the Illinois. New-York State Fair.--The Festival. The Boston Jubilee. Doath of Hon. Frederick Whittlesey. Military Difficulty. Fire in Oswego--Great Destruction of Property.",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "LATEST INTELLIGENCE; Illness of the President--Mr. Webster, &c. From California.--News by the Illinois. New-York State Fair.--The Festival. The Boston Jubilee. Doath of Hon. Frederick Whittlesey. Military Difficulty. Fire in Oswego--Great Destruction of Property.",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1851-09-20T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": "By Telegraph To the New-York Times",
+          "person": [],
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/9ebc60be-8aca-582e-b10e-74cbba7fd143",
+        "word_count": 0,
+        "uri": "nyt://article/9ebc60be-8aca-582e-b10e-74cbba7fd143"
+      },
+      {
+        "abstract": "The Equinox brings with it a continuation of the delightful weather which we have enjoyed- for the last fortnight. A few months ago our Sundays used to be regularly disgraced by riots, but now, thanks to the efficiency of the Marshal's police, we are quiet and orderly.  ",
+        "web_url": "https://www.nytimes.com/1851/09/20/archives/philadelphia-weatheroddfellows-paradearrival-of-the-president.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_page": "3",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "PHILADELPHIA.; Weather-Odd-Fellows' Parade--Arrival of the President.",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "PHILADELPHIA.; Weather-Odd-Fellows' Parade--Arrival of the President.",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1851-09-20T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": "Correspondence of the New-York Daily Times",
+          "person": [
+            {
+              "firstname": null,
+              "middlename": null,
+              "lastname": null,
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/e37f35e6-2940-5b46-8a9b-8565029571f9",
+        "word_count": 0,
+        "uri": "nyt://article/e37f35e6-2940-5b46-8a9b-8565029571f9"
+      },
+      {
+        "abstract": "MEETING OF THE WHIG GENERAL COMMITTEE.--There was a large attendance of delegates present at the meeting of the Whig General Committee, Friday evening, at the City Hotel, and the utmost unanimity and good feeling prevailed.  ",
+        "web_url": "https://www.nytimes.com/1851/09/22/archives/brooklyn.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_page": "1",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "BROOKLYN.",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "BROOKLYN.",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1851-09-22T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": null,
+          "person": [],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/8b1c3652-7c0c-5925-9bb1-d86093133183",
+        "word_count": 0,
+        "uri": "nyt://article/8b1c3652-7c0c-5925-9bb1-d86093133183"
+      },
+      {
+        "abstract": "We are now in the thick of the half-yearly railway gatherings, at which the shareholders congregate, in eager anticipation of the good things which directors have to announce for their benefit. Ever since the disclosure of the \"dodges\" by which the ex-railway potentate, Hudson, contrived to make things \"pleasant,\" these gatherings have been scrutinised far more closely than used to be the case.  ",
+        "web_url": "https://www.nytimes.com/1851/09/22/archives/england-railway-reportsthe-queens-visit-to-scotlandbloomerism.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_page": "4",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "ENGLAND.; Railway Reports--The Queen's Visit to Scotland--Bloomerism abroad--Ascent of Mont Blane--The Yacht America, &c. &c.",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "ENGLAND.; Railway Reports--The Queen's Visit to Scotland--Bloomerism abroad--Ascent of Mont Blane--The Yacht America, &c. &c.",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1851-09-22T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": "Correspondence of The New-York Daily Times",
+          "person": [
+            {
+              "firstname": null,
+              "middlename": null,
+              "lastname": null,
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/a7d0171b-ab84-5135-98d5-9c06264bf194",
+        "word_count": 0,
+        "uri": "nyt://article/a7d0171b-ab84-5135-98d5-9c06264bf194"
+      },
+      {
+        "abstract": "There is scarcely anything of interest to write from this point by the present mail. Business has been remarkably dull for three or four weeks past, mostly attributable to the fact that many nervous persons are afraid that \"Nicaragua is going to break up the Panama route.\"  ",
+        "web_url": "https://www.nytimes.com/1851/09/22/archives/affairs-at-panama.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "print_page": "4",
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "AFFAIRS AT PANAMA.",
+          "kicker": "1",
+          "content_kicker": null,
+          "print_headline": "AFFAIRS AT PANAMA.",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [],
+        "pub_date": "1851-09-22T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Archives",
+        "byline": {
+          "original": "Correspondence of The New-York Daily Times",
+          "person": [
+            {
+              "firstname": null,
+              "middlename": null,
+              "lastname": null,
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "Archives",
+        "_id": "nyt://article/d5636be6-5210-53a5-be2e-24c4ef6275ed",
+        "word_count": 0,
+        "uri": "nyt://article/d5636be6-5210-53a5-be2e-24c4ef6275ed"
+      }
+    ],
+    "meta": {
+      "hits": 620959,
+      "offset": 20,
+      "time": 72
+    }
+  }
+}

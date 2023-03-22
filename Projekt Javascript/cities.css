@@ -1,0 +1,20 @@
+#form {
+  height: 200px;
+  width: 300px;
+}
+.form {
+  height: 190px;
+  width: 300px;
+}
+
+button {
+  margin: 0.5em;
+  height: 30px;
+  width: fit-content;
+  cursor: pointer;
+}
+
+.search-icon {
+  height: 2em;
+  width: 2em;
+}

@@ -1,0 +1,186 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  height: auto;
+  margin: 0;
+  background: rgb(91, 89, 89);
+  /* background-image: url("https://source.unsplash.com/1600x900/?newspaper"); */
+  background-image: url(bilder/himanshu-pandey-XtE3jOuWj5g-unsplash2.jpg);
+  background-position-x: center;
+  background-position-y: 10%;
+  background-size: contain;
+  background-attachment: fixed;
+  min-height: 1000px;
+}
+
+#header {
+  background-color: rgba(2, 5, 23, 0.557);
+  border-color: rgba(240, 102, 23);
+  margin: 2px;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  margin: 0;
+  height: 60px;
+  text-decoration: rgb(1, 8, 45) underline;
+  color: white;
+  font-family: bebas;
+}
+
+h1:hover {
+  cursor: context-menu;
+}
+
+nav {
+  margin: 20px 100px 20px 100px;
+  height: 40px;
+  font-size: 120%;
+  font-weight: bold;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+}
+
+a:link {
+  color: rgba(240, 102, 23);
+  text-decoration: none;
+}
+a:visited {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.line {
+  width: 100%;
+  height: 2px;
+  background-color: rgba(240, 102, 23);
+}
+
+main {
+  min-height: 900px;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+button {
+  margin: 0.5em;
+  border: none;
+  height: 40px;
+  width: 200px;
+  color: white;
+  background: rgba(225, 95, 29, 0.822);
+  outline: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0808086b;
+  transition: 0.3s ease-in-out;
+}
+
+.cards {
+  width: 100%;
+}
+.card {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  background-color: rgba(2, 5, 23, 0.557);
+  color: rgb(255, 255, 255);
+  height: 115vh;
+  width: 46vw;
+  margin: 2px;
+  margin-bottom: 20px;
+  font-family: spacemono;
+}
+
+.articles {
+  margin: 20px;
+}
+
+.cardsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.images {
+  margin-bottom: 20px;
+  max-width: 42vw;
+  max-height: 50vh;
+}
+
+.pic {
+  margin: 10px;
+  margin-left: calc(100% -10);
+  display: flex;
+  justify-content: center;
+}
+
+.url {
+  margin-bottom: 20px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  margin: 2px;
+  background-color: rgba(2, 5, 23, 0.557);
+}
+
+#contactInfo {
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+#contactInfo ul {
+  list-style-type: none;
+  margin-top: 5px;
+}
+
+#contactInfo ul li {
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-size: 120%;
+  margin-bottom: 5px;
+  margin-left: 40px;
+  text-decoration: underline rgba(240, 102, 23);
+}
+
+@font-face {
+  font-family: bebas;
+  src: url(fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+}
+@font-face {
+  font-family: spacemono;
+  src: url(fonts/Space_Mono/SpaceMono-Regular.ttf);
+}

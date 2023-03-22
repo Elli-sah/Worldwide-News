@@ -1,0 +1,262 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  background: rgb(91, 89, 89);
+  background-image: url(bilder/himanshu-pandey-XtE3jOuWj5g-unsplash2.jpg);
+  background-position-x: center;
+  background-position-y: 10%;
+  background-size: contain;
+  background-attachment: fixed;
+  min-height: 1000px;
+}
+/* ("https://source.unsplash.com/1600x900/?newspaper") */
+
+nav {
+  margin: 20px 100px 20px 100px;
+  height: 40px;
+  font-size: 120%;
+  font-weight: bold;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+}
+
+a:link {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(255, 255, 255);
+}
+
+.line {
+  width: 100%;
+  height: 2px;
+  background-color: rgba(240, 102, 23);
+}
+
+#header {
+  background-color: rgba(2, 5, 23, 0.557);
+  border-color: rgba(240, 102, 23);
+  margin: 2px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 70px;
+  text-decoration: rgb(1, 8, 45) underline;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#h2 {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  margin: 0;
+  height: 60px;
+  text-decoration: rgb(1, 8, 45) underline;
+  color: white;
+  font-family: bebas;
+}
+
+h1:hover {
+  cursor: context-menu;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  min-height: 900px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: rgba(227, 227, 227, 0.916);
+  color: black;
+  max-width: 90vw;
+  height: auto;
+  margin: 1em;
+  margin-bottom: 40px;
+  background-image: url(paper.jpg);
+  font-family: spacemono;
+  visibility: hidden;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: fit-content;
+  margin-left: 40px;
+  margin-top: 20px;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.search-bar {
+  border: none;
+  outline: none;
+  padding: 0.5em 1em;
+  border-radius: 24px;
+  background-color: rgba(225, 95, 29, 0.822);
+  color: white;
+  font-family: sans-serif;
+  font-size: 120%;
+  width: 400px;
+  margin-bottom: 1px;
+}
+
+button {
+  margin: 0.5em;
+  border-radius: 50%;
+  border: none;
+  height: 40px;
+  width: 40px;
+  color: white;
+  background: rgba(225, 95, 29, 0.822);
+  outline: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: rgba(0, 0, 0, 0.623);
+  transition: 0.3s ease-in-out;
+}
+
+.search-icon {
+  height: 2em;
+  width: 2em;
+}
+
+.search-and-history {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-history-container {
+  background-color: rgba(44, 42, 41, 0.897);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  margin: 0 10px 0 0;
+  z-index: 1;
+  visibility: hidden;
+}
+
+.searchHeading {
+  padding: 60px;
+  background-color: aliceblue;
+  color: aliceblue;
+}
+.userInputs {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sbh-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 410px;
+}
+
+.heading4 {
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.link-blue-clear {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.history {
+  margin: 10px;
+}
+
+.articles {
+  margin: 20px;
+  max-width: 950px;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.content {
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
+
+.images {
+  margin-bottom: 20px;
+  max-width: 850px;
+}
+
+.url {
+  margin-bottom: 20px;
+}
+
+.pic {
+  margin: 10px;
+  margin-left: calc(100% -10);
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  margin: 2px;
+  background-color: rgba(2, 5, 23, 0.557);
+}
+
+#contactInfo {
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+#contactInfo ul {
+  list-style-type: none;
+  margin-top: 5px;
+}
+
+#contactInfo ul li {
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-size: 120%;
+  margin-bottom: 5px;
+  margin-left: 40px;
+  text-decoration: underline rgba(240, 102, 23);
+}
+
+@font-face {
+  font-family: bebas;
+  src: url(fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+}
+@font-face {
+  font-family: spacemono;
+  src: url(fonts/Space_Mono/SpaceMono-Regular.ttf);
+}

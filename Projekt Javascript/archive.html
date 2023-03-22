@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="archivestyle.css" />
+    <title>News</title>
+  </head>
+  <body>
+    <div id="header">
+      <h2 id="h2">Worldwide News</h2>
+      <nav>
+        <ul>
+          <li id="home"><a href="index.html">TOP HEADLINES</a></li>
+          <li id="archive"><a href="archive.html">THE NEWS</a></li>
+          <li id="contact"><a href="#contactInfo">CONTACT</a></li>
+          <li id="about"><a href="#">ABOUT</a></li>
+          <li id="cities"><a href="cities.html">CITIES</a></li>
+        </ul>
+        <div class="line"></div>
+      </nav>
+    </div>
+
+    <main>
+      <div class="search-and-history">
+        <div class="search">
+          <input type="text" class="search-bar" placeholder="Search for News" />
+          <button class="search-button">
+            <img
+              src="search_FILL0_wght400_GRAD0_opsz48.svg"
+              alt="search-icon"
+              class="search-icon"
+            />
+          </button>
+        </div>
+        <div class="search-history-container">
+          <div class="search-history-heading">
+            <div class="sbh-box">
+              <h4 class="heading4">Search history</h4>
+              <span class="link-blue-clear" role="button">Clear history</span>
+            </div>
+          </div>
+          <div class="userInputs">
+            <span class="history" role="link" tabindex="0">
+              <div class="userInput1"></div>
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="articles">
+          <h1 class="h1"></h1>
+          <h2 class="name"></h2>
+          <h3 class="title"></h3>
+          <div class="content"></div>
+          <div class="pic"><img class="images" /></div>
+          <div class="url"><a class="ahref"></a></div>
+          <p class="publishedAt"></p>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div id="contactInfo">
+        <h2>CONTACT</h2>
+        <ul>
+          <li>Email: Loremipsum@gmail.com</li>
+          <li>Address: Lorem-ipsum 12b</li>
+          <li>Phone: 073-2312312</li>
+          <li>Breaking news AB</li>
+        </ul>
+      </div>
+    </footer>
+    <script src="fetch2.js"></script>
+  </body>
+</html>
